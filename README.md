@@ -1,8 +1,12 @@
-# Gustavo Haluch
+# 👽 Gustavo Haluch
 
-**`Desenvolvedora junior`**
+**`Desenvolvedor junior`**
 
-Me chamo Gustavo Vitoriano Haluch, tenho 18 anos e sou natural de Curiba. Concluí o ensino médio no Bom Jesus Lourdes. Atualmente, estou cursando Engenharia de Software na PUCPR. Sou apaixonado por tecnologia e compartilho meu conhecimento através GitHub.
+Me chamo Gustavo vitoriano Haluch, tenho 18 anos e sou natural de Curitiba. Concluí o ensino médio no Bom Jesus Nossa Senhora de Lourdes. Atualmente, estou cursando Engenharia de Software na PUCPR. Sou apaixonado por tecnologia e compartilho meu conhecimento através do GitHub .
+
+
+    
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -23,6 +27,7 @@ Me chamo Gustavo Vitoriano Haluch, tenho 18 anos e sou natural de Curiba. Conclu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Python" 
@@ -34,4 +39,7 @@ Me chamo Gustavo Vitoriano Haluch, tenho 18 anos e sou natural de Curiba. Conclu
 
 <br/>
 <br/>
+
+### 📊 Estatísticas
+(quando a api voltar eu coloco)
 
